@@ -1,0 +1,2 @@
+# weak_password_list
+weak_password_list
